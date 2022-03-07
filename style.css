@@ -1,0 +1,22 @@
+body{
+    box-sizing: border-box;
+}
+img{
+    box-shadow: 2px 2px 10px 3px #a8a4a4;
+}
+#span{
+    font-size: 12px;
+    writing-mode: vertical-rl;
+    margin-right: 4rem;
+    float: right;
+}
+.container{
+    background-color: #F4F4F4;
+}
+.row{
+    padding-top: 5vh 0vh 5vh 10vh;
+    position: relative;
+}
+.downPicture{
+    padding-top: 10vh;
+}
